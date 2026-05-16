@@ -104,9 +104,6 @@ const LoginPage = () => {
           </button>
         </form>
 
-        <div className="login-footer">
-          <p>Demo: <code>admin@admin.com</code> / <code>admin123</code></p>
-        </div>
       </div>
     </div>
   );
