@@ -103,7 +103,6 @@ const LoginPage = () => {
             {loading ? <span className="spinner"></span> : 'Sign In'}
           </button>
         </form>
-
       </div>
     </div>
   );
